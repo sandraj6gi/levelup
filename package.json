@@ -1,0 +1,15 @@
+{
+  "name": "Levelup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Sandra Jōgi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.24.0"
+  }
+}
